@@ -153,6 +153,9 @@ nav {
 
 /* *****************Founders**************** */
 
+.hvrascale1{
+  transition:  transform 0.2s ;
+}
 .hvrascale1:hover {
   transform: scale(1.1);
 }
